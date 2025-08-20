@@ -1,5 +1,5 @@
 # Counter-App
-Description
+Description:
 A simple Flutter app that lets users increase or decrease a counter with a clean UI.
 
 Features:
